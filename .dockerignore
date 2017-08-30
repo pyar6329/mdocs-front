@@ -1,0 +1,17 @@
+*.log
+.DS_Store
+.dockerignore
+.env.*
+.git*
+.next
+.nyc_output
+README.md
+build
+coverage
+dist
+node_modules
+npm-debug.log*
+package-lock.json
+test/**/out
+yarn-debug.log*
+yarn-error.log*
